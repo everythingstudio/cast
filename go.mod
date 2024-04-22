@@ -1,6 +1,6 @@
-module github.com/spf13/cast
+module github.com/everythingstudio/cast
 
-go 1.19
+go 1.22.1
 
 require github.com/frankban/quicktest v1.14.6
 
